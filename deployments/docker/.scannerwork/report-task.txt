@@ -1,0 +1,6 @@
+projectKey=example-myip
+serverUrl=https://sonarqube.fuchicorp.com
+serverVersion=8.5.1.38104
+dashboardUrl=https://sonarqube.fuchicorp.com/dashboard?id=example-myip
+ceTaskId=AX4OE-d6wFnZzVMXaAM8
+ceTaskUrl=https://sonarqube.fuchicorp.com/api/ce/task?id=AX4OE-d6wFnZzVMXaAM8
